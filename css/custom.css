@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid{
+    margin: 0;
+    padding: 0;
+    height: 700px;
+    background: #EEEEEE;
+    min-width: 100%;
+}
+.navbar{
+    height: 80px;
+}
+.container{
+    /* background-color: azure; */
+    background: #EEEEEE;
+    min-height: 100%;
+}
+
+.inpLogin{
+    padding: 2px;
+    margin-bottom: 10px;
+}
+.btnLogin{
+    padding: 7px;
+    background: lightgreen;
+    border: 1px solid grey;
+    width: 100%;
+}
+.card:hover{
+    border: 2px steelblue solid;
+    color: steelblue;
+}
+.card-links{
+    text-decoration: none;
+    color: black;
+}
+.card-links:hover{
+    text-decoration: none;
+    color: black;
+}
